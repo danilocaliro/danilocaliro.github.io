@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://danilocaliro.github.io/sitemap.xml
+Sitemap: https://danilocaliro.com/sitemap.xml
